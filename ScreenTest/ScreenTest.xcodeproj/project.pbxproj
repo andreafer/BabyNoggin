@@ -79,6 +79,11 @@
 		3F59A28F1BA8442500B7B5E9 /* ScreenTest */ = {
 			isa = PBXGroup;
 			children = (
+				3F59A2B81BA8455B00B7B5E9 /* Definitions */,
+				3F59A2B71BA8454000B7B5E9 /* Models */,
+				3F59A2B61BA8453A00B7B5E9 /* Views */,
+				3F59A2B51BA8452F00B7B5E9 /* Controllers */,
+				3F59A2B41BA8452200B7B5E9 /* Managers */,
 				3F59A2921BA8442500B7B5E9 /* AppDelegate.swift */,
 				3F59A2941BA8442500B7B5E9 /* FirstViewController.swift */,
 				3F59A2961BA8442500B7B5E9 /* SecondViewController.swift */,
@@ -113,6 +118,41 @@
 				3F59A2A91BA8442600B7B5E9 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3F59A2B41BA8452200B7B5E9 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		3F59A2B51BA8452F00B7B5E9 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		3F59A2B61BA8453A00B7B5E9 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		3F59A2B71BA8454000B7B5E9 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		3F59A2B81BA8455B00B7B5E9 /* Definitions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Definitions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
