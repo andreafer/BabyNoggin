@@ -6,4 +6,14 @@
 //  Copyright (c) 2015 Andrea Ferrari. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class BNUIManager {
+    
+    internal static func applyDefaultButtonStyle( button : UIButton ) {
+        button.layer.cornerRadius = 3.0
+        button.backgroundColor = UIColor.cyanColor()
+        button.setTitleColor(UIColor.redColor(), forState: UIControlState.Normal)
+    }
+    
+}
