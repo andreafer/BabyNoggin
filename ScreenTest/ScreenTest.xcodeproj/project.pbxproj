@@ -48,6 +48,7 @@
 		3F59A2C41BA846D600B7B5E9 /* AnswerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		3F59A2C61BA846EA00B7B5E9 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		3F59A2C81BA846FA00B7B5E9 /* BNUIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BNUIManager.swift; sourceTree = "<group>"; };
+		3F59A2CA1BA847CB00B7B5E9 /* BNPrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNPrefixHeader.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +106,7 @@
 			isa = PBXGroup;
 			children = (
 				3F59A2911BA8442500B7B5E9 /* Info.plist */,
+				3F59A2CA1BA847CB00B7B5E9 /* BNPrefixHeader.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
